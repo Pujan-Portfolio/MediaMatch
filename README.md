@@ -1,6 +1,7 @@
+
 <h1 align="center">
 <br>
-  <img src="https://github.com/reginaldop/tinder-html-css/blob/master/images/logo.png" width="150">
+  ![project Pic](https://user-images.githubusercontent.com/84432841/118758897-e1752a00-b83d-11eb-8fcc-52bcf5c4676a.PNG)
 <br>
 <br>
 Tinder HTML CSS
