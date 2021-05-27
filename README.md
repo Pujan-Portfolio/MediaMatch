@@ -6,4 +6,5 @@
 <br>
 Media Match 
 </h1>
-<p align="center">Tinder style web application that recommends the user Movies and TV Shows</p>
+<b><p align="center">Tinder style web application that recommends the user Movies and TV Shows</p>
+</b>
