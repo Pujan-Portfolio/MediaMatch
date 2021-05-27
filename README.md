@@ -5,8 +5,5 @@
 <br>
 <br>
 Media Match 
-  <h2 aligh = "center>
-    <p align="center">Tinder style web application that recommends the user Movies and TV Shows</p>
-  </h2>
 </h1>
-
+<p>Tinder style web application that recommends the user Movies and TV Shows</p>
