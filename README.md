@@ -20,3 +20,16 @@ Show Swiper
   <li>Request movie API for media specific to the user's selected preferences</li>
   <li>Manipulate and display movie data onto the website using HTML, CSS, and Javascript</li>
 </ul>
+
+<b>
+  <p align="center">Tools and languages used</p>
+</b>
+<ul>
+  <li>Programming Languages : Python, Javascript, and HTML</li>
+  <li>Flask framework to handle web application and interaction between front-end and back-end</li>
+  <li>MongoDB to store user information and data</li>
+</ul>
+
+
+
+
