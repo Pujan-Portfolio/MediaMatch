@@ -9,4 +9,4 @@ Show Swiper
 <b>
   <p align="center">Tinder style web application that recommends the user Movies and TV Shows</p>
 </b>
-<p align="center"> Show Swiper is a web application that suggests media based off of the user's inputted genre and media preferences. The application utilizes [TheMovieDB API](https://www.themoviedb.org/?language=en-US) </p>
+<p align="center"> Show Swiper is a web application that suggests media based off of the user's inputted genre and media preferences. The application utilizes<a href="https://www.themoviedb.org/?language=en-US">link text</a> [TheMovieDB API](https://www.themoviedb.org/?language=en-US) </p>
